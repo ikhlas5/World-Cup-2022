@@ -6,7 +6,7 @@ font-family: 'Poppins', sans-serif;
 /* header-style */
 .flexiable{
     display: flex;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 .justtify{
     display: flex;
